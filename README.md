@@ -9,19 +9,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-
-#bin/env/python3.6
 `
-print("**_We Trust In CODE_**")
-
-**Bold** and _Italic_ and `Code` text
+`#bin/env/python3.6`
+``
+`print("**_We Trust In CODE_**")`
+``
+`**Bold** and _Italic_ and `Code` text`
 `
 
 ### Support or Contact
 
 
-EMAIL: OmidNateghiOfficial@gmail.com
+`EMAIL: OmidNateghiOfficial@gmail.com`
 
-Number: +989307605866
+`Number: +989307605866`
 
-Address: KhorramAbad City, Imam Khomaini St, Pardis Passage, DiarehRayanBorna Company Office 
+`**Address: KhorramAbad City, Imam Khomaini St, Pardis Passage, DiarehRayanBorna Company Office**`
