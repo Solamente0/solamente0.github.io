@@ -4,9 +4,8 @@
 
 
 ``` 
-
-    #bin/env/python3.6 ```
-``` print("**_We Trust In CODE_**")```
+    #bin/env/python3.6
+    print("**_We Trust In CODE_**")
 
 ```
 
