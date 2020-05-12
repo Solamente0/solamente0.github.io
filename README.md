@@ -12,11 +12,11 @@
 ### Support or Contact
 
 
-`EMAIL: OmidNateghiOfficial@gmail.com`
+`EMAIL: mailto:OmidNateghiOfficial@gmail.com`
 
-`Telegram: t.me/OmidNateghiOfficial`
+`Telegram: https://t.me/OmidNateghiOfficial`
 
-`Instagram: www.instagram.com/omidnateghiofficialpage`
+`Instagram: https://www.instagram.com/omidnateghiofficialpage`
 
 `Number: +989307605866`
 
