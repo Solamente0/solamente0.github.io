@@ -13,7 +13,9 @@
 
 
 `EMAIL: OmidNateghiOfficial@gmail.com`
+
 `Telegram: t.me/OmidNateghiOfficial`
+
 `Instagram: www.instagram.com/omidnateghiofficialpage`
 
 `Number: +989307605866`
